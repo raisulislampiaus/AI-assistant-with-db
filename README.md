@@ -11,6 +11,8 @@ npm install
 ##########.
 
 cd apps/backend
+
+
 pip install -r requirements.txt
 
 2.Run the frontend project:

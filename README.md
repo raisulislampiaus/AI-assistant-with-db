@@ -1,10 +1,12 @@
 1.npm install
+
 ##########
+
 cd apps/frontend
 npm install
 
 
-##########
+##########.
 
 cd apps/backend
 pip install -r requirements.txt
